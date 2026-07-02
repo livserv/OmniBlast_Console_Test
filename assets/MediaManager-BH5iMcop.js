@@ -1,0 +1,1 @@
+import{n as e,t}from"./jsx-runtime-bzQ4Vb5N.js";import{n}from"./media-COF_ct4O.js";e();var r=t(),i=()=>(0,r.jsxs)(`div`,{className:`space-y-6 p-6`,children:[(0,r.jsx)(`h1`,{className:`text-2xl font-bold`,children:`Media Manager`}),(0,r.jsx)(n,{showUpload:!0,showViewToggle:!0,showSearch:!0,showFilter:!0})]});export{i as default};
